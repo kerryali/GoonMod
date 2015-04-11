@@ -1,0 +1,11 @@
+ {
+ 	"name" : "GoonMod",
+ 	"author" : "James Wilkinson",
+ 	"contact" : "jw@jameswilko.com",
+ 	"updates" : [
+ 		{
+-			"revision" : 11,
++			"revision" : 13,
+ 			"identifier" : "goonmod",
+ 		},
+ 		{
